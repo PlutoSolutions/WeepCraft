@@ -18,6 +18,6 @@ Get the jar from [releases page](https://github.com/PlutoSolutions/WeepCraft/rel
 
 Afterwards make a new 1.4.7 instance and click here
 
-![](https://i.imgur.com/QwAI10M.png)
+![](https://cdn.discordapp.com/attachments/881992553661091921/962678156081385532/PicsArt_04-10-09.39.09.png)
 
 </div>
